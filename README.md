@@ -1,4 +1,4 @@
-# Awesome TMNF :car:
+# Awesome TMNF :car: :checkered_flag:
 
 A curated list of awesome TrackMania Nations Forever resources
 
