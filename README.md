@@ -3,7 +3,7 @@
 A curated list of awesome TrackMania Nations Forever resources
 
 ### Installation:
-* [Official Homepage](http://trackmaniaforever.com) (Download link for Windows Installation in the bottom right)
+* [Official Homepage](http://trackmaniaforever.com/nations/)
 * [Steam](https://store.steampowered.com/app/11020/TrackMania_Nations_Forever)
 * [:penguin: Linux Snap App](https://snapcraft.io/tmnationsforever)
 * [:whale: Linux Docker Image](https://github.com/jstriebel/dockerfiles/tree/master/tmnf)
