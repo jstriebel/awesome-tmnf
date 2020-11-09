@@ -28,13 +28,19 @@ A curated list of awesome TrackMania Nations Forever resources
 * https://tmnforever.tm-exchange.com
 * https://github.com/RDIL/TrackMania
 * [AI Track Generation](https://github.com/donadigo/TMTrackNN)
+* https://github.com/garzaa/tmscraper
 
 ### Dedicated Server:
 * [Documentation](http://www.gamers.org/tmn/docs/readme_dedicated.html)
 * [:whale: Windows Docker Image](https://github.com/haydenmc/TrackManiaNationsDocker)
 * [:whale: Linux Docker Image (Coming Soon)]()
 
+### Rankings
+* https://nekz.me/trackmania-records/tmnforever
+* http://en.tm-ladder.com/world.php
+
 ### Other
+* https://github.com/EvoTM/awesome-trackmania
 * https://github.com/Panimioul/TwitchPlaysTMNF
 * [Sign Packs](https://tmnforever.tm-exchange.com/main.aspx?action=tracksigns)
-* http://en.tm-ladder.com
+
